@@ -19,7 +19,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
         await update.message.reply_text(
             "✅ ¡Bienvenido! Tienes acceso a los nuevos Tokens de Claro Chile.\n\n"
             "🔑 *Nuevo Token:* ✔️\n"
-            "`UR8M+MXRXPdCihY5FSanSIRLq6C2pJOYMXXSb/0TwhBP1RevGtmqhaBjcN9IzVkFmWmExlmXIqEdWWBYskpBjQ==`",
+            "`UR8M+MXRXPdCihY5FSanSIRLq6C2pJOYMXXSb/0TwhBP1RevGtmqhaBjcN9IzVkFXmgRNI2Db74aCFYkjCfJxA==`",
             parse_mode="Markdown"
         )
     else:
